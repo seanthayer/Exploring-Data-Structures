@@ -1,4 +1,4 @@
-*Code is currently redacted in the interest of OSU's Academic Honesty Policy. This repo will be republished when all references and dependencies on OSU specific material have been scoured.*
+Exploring Data Structures will be focused on the visualization and implementation of common data structures using C++.
 
 Data Structures:
 <details><summary>Deque (Double-Link, Double-Sentinel)</summary>
