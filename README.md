@@ -1,4 +1,4 @@
-Exploring Data Structures will be focused on the visualization and implementation of common data structures using C++.
+<sup><sub>References from: Professor Sinisa Todorovic</sub></sup>
 
 Data Structures:
 <details><summary>Deque (Double-Link, Double-Sentinel)</summary>
