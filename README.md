@@ -1,5 +1,11 @@
 <sup><sub>References from: Professor Sinisa Todorovic</sub></sup>
 
+Points of Interest:
+
+* [Linked-List](Deque%20%26%20variants/Linked-List/interfaces.c)
+* [Binary Search Tree](BST/interfaces.c)
+* [Hashtable](Hashtable/interfaces.c)
+
 Data Structures:
 <details><summary>Deque (Double-Link, Double-Sentinel)</summary>
 
