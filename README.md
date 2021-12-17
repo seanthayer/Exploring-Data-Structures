@@ -1,12 +1,15 @@
 <sup><sub>References from: Professor Sinisa Todorovic</sub></sup>
 
-Points of Interest:
+## Points of Interest
 
-* [Linked-List](Deque%20%26%20variants/Linked-List/interfaces.c)
-* [Binary Search Tree](BST/interfaces.c)
-* [Hashtable](Hashtable/interfaces.c)
+### Interfaces
 
-Data Structures:
+* [Linked-List](Deque%20%26%20variants/Linked-List/interfaces.c) — An implementation of the Linked-List data structure interface.
+* [Binary Search Tree](BST/interfaces.c) — An implementation of the BST data structure interface.
+* [Hashtable](Hashtable/interfaces.c) — An implementation of the Hashtable data structure interface.
+
+### Diagrams
+
 <details><summary>Deque (Double-Link, Double-Sentinel)</summary>
 
 ![Deque Visualized](/.img/deque_vis.png)
